@@ -1,0 +1,64 @@
+a) A simple data processing project.
+Suggested Model: Waterfall model
+For a simple and well-defined data processing project, the Waterfall model would be appropriate. The requirements are clear, and there is no need for frequent iterations or changes.
+
+b) A data entry system for office staff who have never used computers before.
+The user interface and user-friendliness are extremely important.
+Suggested Model: Prototyping model
+In this scenario, it's crucial to get frequent feedback from the users and continuously improve the user interface. The Prototyping model would be a good fit as it allows for iterative development and quick feedback.
+
+c) A spreadsheet system that has some basic features and many other desirable
+features that use these basic features.
+Suggested Model: Incremental model (Evolutionary model)
+An Incremental model would be suitable for a project like this. It enables the development team to deliver the basic features first and then incrementally add more features based on customer feedback.
+
+d) A web-based system for a new business where requirements are changing fast
+and where an in-house development team is available for all aspects of the
+project.
+Suggested Model: SCRUM (Agile)
+In this dynamic environment with rapidly changing requirements, and with an in-house development team, the Agile methodology would be the best fit. 
+
+e) A Web-site for an on-line store which has a long list of desired features it
+wants to add, and it wants a new release with new features to be done very
+frequently.
+Suggested Model: SCRUM (Agile)
+An Agile methodology like Scrum would be suitable for this web-based project with evolving requirements.
+
+
+f) A system to control anti-lock braking in a car.
+Spiral model: 
+The Spiral model is suitable for complex and high-risk projects, which often include safety-critical systems. It allows for iterative development with a focus on risk analysis and risk mitigation at each iteration.
+
+g) A virtual reality system to support software maintenance
+Suggested Model: Spiral model
+Since this involves exploring and experimenting with virtual reality technology and has uncertain requirements, the Spiral model would be a good choice. It allows for iterations and risk management.
+
+h) A university accounting system that replaces an existing system
+Suggested Model: Waterfall model
+Since the domain and requirements are well-understood, and there might not be significant changes, the Waterfall model would work well in this scenario.
+
+i) An interactive system that allows railway passenger to find train times from
+terminals installed in stations.
+Suggested Model: Prototyping model
+Given the need for user feedback and iterative development to improve the interactive system, the Prototyping model would be suitable.
+
+j) Company has asked you to develop software for missile guidance system that
+can identify a target accurately.
+Suggested Model: Spiral model
+Since this involves exploring and experimenting with virtual reality technology and has uncertain requirements, the Spiral model would be a good choice. It allows for iterations and risk management.
+
+k) When emergency changes have to be made to systems, the system software
+may have to be modified before changes to the requirements have been
+approved. Choose a process model for making these modifications that
+ensures that the requirements documents and the system implementation do
+not become inconsistent.
+Software Model -- Agile
+This system requires frequent modifications to be made, agile model have an advantage of being consistent with the frequent changes, hence we can implement the same.
+l) Software for ECG machine.
+Software Model -- Spiral
+This system needs to be fail-safe and needs to have least risk factor, hence Spiral model can be implemented.
+m) A small scale well understood project (no changes in requirement will be there
+once decided).
+Software Model -- Waterfall
+Since this is a small and well understood project it is beneficial to use waterfall model here.
+
